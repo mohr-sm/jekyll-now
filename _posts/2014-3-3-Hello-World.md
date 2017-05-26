@@ -1,7 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: This is just a trial!
 ---
+
+I am just trying some stuff in this version I have forked from barryclark/jekyll-now
+
+If just by chance you read this... Thanks for your quick tutorial, it is awesome!
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
