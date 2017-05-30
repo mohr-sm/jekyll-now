@@ -32,11 +32,12 @@ Institute of Hydrobiology, TU-Dresden (DE)
 Modeling the impact of nitrogen reduction on the water
 quality in lakes. Project NITROLIMIT
 ( www.nitrolimit.de )
-Main activities: coupling of hydrodynamic and biogeo-
-chemical models in Fortran 2003 and C++. Modification
-and improvement of the source codes. Creation of a de-
-tailed nitrogen model in Fortran 2003 and Python. Data
+Main activities: coupling of hydrodynamic and biogeochemical 
+models in Fortran 2003 and C++. Modification
+and improvement of the source codes. Creation of a 
+detailed nitrogen model in Fortran 2003 and Python. Data
 Analisys using R and Python.
+
 
 APRIL 2010 – DECEMBER 2010
 
