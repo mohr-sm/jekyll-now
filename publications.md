@@ -30,6 +30,10 @@ rical Tools of Limnology. SIL News (58), 10. www.ufz.de/index.php?en=20153
 water flow, heat and solute transport, geochemical reactions, and microbial processes, In: Ground Water 
 Reactive Transport Models, Electronic book, 144-167, ISBN 978-1-60805-029-1
 
+
+**************************************************************************************************************
+
+
 ### Congresses
 
 * Petzoldt T., Moreira-Martinez S., Sachse R., Grüneberg B., Rücker J., Dolman A., Nixdorf B., Wiedner C. (2013)
@@ -66,6 +70,9 @@ Model predictions of water chemistry for the future pit lake in As Pontes, A Cor
 (Spain). X International Mine Water Association Congress. Karlovy Vary (Czech Republic). 
 Proceedings ISBN Number: 9781618396136.
 
+
+
+***************************************************************************
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
