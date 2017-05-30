@@ -13,6 +13,7 @@ I love using LaTeX for my documents, presentations and posters and I know a litt
 By the way, I am a native speaker in Spanish and Galician (similar to Portuguese), I speak English, 
 I can express quite well in French and I can survive in German.
 
+----------------------------------------------------------------
 
 ### Experience:
 
