@@ -82,7 +82,24 @@ Factory using Kraft process”.
 Main activities: Data analysis of the atmospheric emissions 
 and proposal of several remedial actions and equipments.
 
+-------------------------------------------------------------------------------------------------
 
+### Teaching:
+
+**Applied Statistics**
+Erasmus Mundus Program (TU-Dresden, Germany)
+Course 2011 and 2012. Teaching Assistant
+
+
+**Workshop-Block Course in Physical Limnology**
+Master in Environmental Physics (Heidelberg University,
+Germany) Course 2013. Guest Speaker.
+
+**Laboratory of Basic Operations in Chemical Engineering**
+Chemical Engineering (USC, Spain)
+Course 2004/2005. Teaching Assistant.
+
+-------------------------------------------------------------------------------------------------
 
 ### Education:
 
@@ -94,6 +111,10 @@ PhD in Civil Engineering, Civil Engineering School (University of A Coruña, Spa
 1999 – 2005
 
 BSc/MSc in Chemical Engineering, School of Engineering, USC (Santiago de Compostela, Spain)
+
+
+
+---------------------------------------------------------------------------------------------------
 
 ### Contact me
 
