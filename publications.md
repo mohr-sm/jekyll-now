@@ -10,8 +10,7 @@ Here you can find some of my last publications:
 
 * Vázquez Riveiros, N., A. Govin, C. Waelbroeck, A. Mackensen, E. Michel, S. Moreira, T. Bouinot, N. Caillon, A. Orgun, and M. Brandon (2016), Mg/Ca thermometry in planktic foraminifera: Improving paleotemperature estimations for G. bulloides and N. pachyderma left, Geochem. Geophys. Geosyst., 17, 1249–1264, doi:10.1002/2015GC006234.
 
-* Moreira S., Schultze M., Rahn K., Boehrer B. (2016) A practical approach to lake water density from electrical
-conductivity and temperature. Limnology and Oceanography Methods. https://sourceforge.net/projects/densitycalc
+* Moreira, S., Schultze, M., Rahn, K., and Boehrer, B.: A practical approach to lake water density from electrical conductivity and temperature, Hydrol. Earth Syst. Sci., 20, 2975-2986, doi:10.5194/hess-20-2975-2016, 2016.
 
 * Sachse R., Petzoldt T., Blumstock M., Moreira S., Pätzig M., Rücker J., Janse J., Mooij W., Hilt S. (2014). 
 Extending one-dimensional models for deep lakes to simulate the impact of submerged macrophytes on water quality.
