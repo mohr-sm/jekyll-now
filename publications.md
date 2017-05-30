@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Here you can find some of my last publications in peer reviewed Journals and Congresses:
+Here you can find some of my last publications:
 
 ### Peer Reviewed Articles:
 
@@ -71,8 +71,9 @@ Model predictions of water chemistry for the future pit lake in As Pontes, A Cor
 Proceedings ISBN Number: 9781618396136.
 
 
-
 ***************************************************************************
+
+
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
