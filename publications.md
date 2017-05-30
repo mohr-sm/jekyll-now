@@ -10,14 +10,15 @@ Here you can find some of my last publications:
 
 * Vázquez Riveiros, N., A. Govin, C. Waelbroeck, A. Mackensen, E. Michel, S. Moreira, T. Bouinot, N. Caillon, A. Orgun, and M. Brandon (2016), Mg/Ca thermometry in planktic foraminifera: Improving paleotemperature estimations for G. bulloides and N. pachyderma left, Geochem. Geophys. Geosyst., 17, 1249–1264, doi:10.1002/2015GC006234.
 
-* Moreira, S., Schultze, M., Rahn, K., and Boehrer, B.: A practical approach to lake water density from electrical conductivity and temperature, Hydrol. Earth Syst. Sci., 20, 2975-2986, doi:10.5194/hess-20-2975-2016, 2016.
+* Moreira, S., Schultze, M., Rahn, K., and Boehrer, B.: A practical approach to lake water 
+density from electrical conductivity and temperature, Hydrol. Earth Syst. Sci., 20, 2975-2986, doi:10.5194/hess-20-2975-2016, 2016.
 
 * Sachse R., Petzoldt T., Blumstock M., Moreira S., Pätzig M., Rücker J., Janse J., Mooij W., Hilt S. (2014). 
 Extending one-dimensional models for deep lakes to simulate the impact of submerged macrophytes on water quality.
 Environmental Modelling and Software, 61:410-423.
 
-* Moreira S., Boehrer B., Schultze M., Dietz S., Samper J. (2011). Modeling geochemically caused permanent stra-
-tification in lake Waldsee (Germany). Aquatic Geochemistry, 17(3) :265-280.
+* Moreira S., Boehrer B., Schultze M., Dietz S., Samper J. (2011). Modeling geochemically caused permanent 
+stratification in lake Waldsee (Germany). Aquatic Geochemistry, 17(3) :265-280.
 
 * Lagauzere, S., Moreira, S., and Koschorreck, M. (2011). Influence of bioturbation on the biogeochemistry of 
 littoral sediments of an acidic post-mining pit lake, Biogeosciences, 8: 339-352.
