@@ -47,7 +47,7 @@ It works with a Google account, it has apps for your smartphone and tablet,
 it can be used with any web browser and the main advantege is that it synchronizes! 
 In this way I can create reminders using my phone or my tablet and get them in my Google account.
 
-To plan tasks in a particular project and keep track of progress I like using org-mode](http://orgmode.org) in [Emacs](https://www.gnu.org/software/emacs/).
+To plan tasks in a particular project and keep track of progress I like using [org-mode](http://orgmode.org) in [Emacs](https://www.gnu.org/software/emacs/).
 I already use Emacs for writing code, reports in LaTex, edit HTML... so why not using for planning and organization.
 Using org-mode in Emacs is simply creating a text file, which I have in a folder in a calculation
 server or in a cloud service, so I can access and modify it from my computer at work or at home.
