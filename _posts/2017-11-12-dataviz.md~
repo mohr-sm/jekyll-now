@@ -1,0 +1,187 @@
+---
+layout: post
+title:  Data Visualization using Open Source tools.
+---
+
+*Life is really simple, but we insist on making it complicated.* 
+― Confucius.
+
+
+complicated tools for organizing your tasks, plan your projects and write your documents.
+
+Everybody knows great tools for writing documents, take notes and make plans and this is not about those kind of tools.
+This is about simplicity. Make it quick, make it nice and make it reusable. This last sentence is the perfect summary of 
+the content of this post.
+
+I will assume that you already know a little bit [Emacs](https://www.gnu.org/software/emacs/) and maybe you prefer to use
+more complicated tools for writing your code and documents. I hope these few words make you consider at least to try Emacs 
+again. If you are a vim user, I have two words for you: [Evil mode](https://github.com/emacs-evil/evil). Evil mode is 
+an extensible layer for Emacs which allows you to use Emacs in the same way than Vim, but including the rest of the cool 
+features of Emacs, including [org-mode](http://orgmode.org/). Anyway, Vim is also a great tool. And it is part of the 
+same idea I would like to present here.
+
+I am going to focus in this post on two main aspects of the org-mode: organization and writing.
+
+As I have already mentioned in another [post](https://mohr-sm.github.io/managing_time/ "Tempus Fugit"), 
+[org-mode](http://orgmode.org/) allows you to organize your time and calender and plan your tasks 
+and projects. Another important feature of org-mode is that it allows you to quickly 
+write your documents and export them directly to LaTex, pdf, HTML, odt and only using its markup syntax. 
+
+Yes! You have heard me right! You could write quickly a LaTeX document without using 
+any LaTeX command and the same with an HTML document or even write quickly some notes 
+which can be converted to a odt/doc document. Quite in a similar way than using [Markdown](https://daringfireball.net/projects/markdown/syntax).
+
+But before getting into the details of using org-mode for all these purposes, 
+let's talk a little bit about why using a simple text editor...
+
+## Greatness lay in Simplicity
+
+Think about a professional writer for a second or think about any writer fifty or a hundred years ago.
+Do you think while those scientists and philosophers were working on their great ideas and theories they were worried about the
+size of the font in the headings? do you think they were checking margins or font families? Of course not! And that is one of
+biggest disadvantages of the [WYSIWG](https://en.wikipedia.org/wiki/WYSIWYG), they distract you from what it is really important:
+the content.
+
+If you prefer a most contemporaneous example, [George R.R. Martin still uses DOS-based WordStar 4.0](http://www.bbc.com/news/technology-27407502). On that interview he declared:
+
+*"I actually like it, it does what I want a word-processing program 
+to do and it doesn't do anything else. I don't want any help, you know?*
+*"I hate some of these modern systems where you type a lower case letter 
+and it becomes a capital. I don't want a capital. If I'd wanted a capital, 
+I'd have typed a capital. I know how to work the shift key. Stop fixing it."*
+
+Something similar happens when you code. Most of us (yes, I include myself in this group ;-)) use modern a IDE such as [Eclipse](http://www.eclipse.org), [RStudio](http://www.rstudio.com) or [Spyder](http://github.com/spyder-ide/spyder) 
+or enhanced editors such as [Atom](http://atom.io) or [Sublime Text](http://www.sublimetext.com)   
+for coding our scripts or full programs. It is quite helpful most of times to use self completion 
+for built-in functions, or even our own methods and classes. We can code faster but paying a high price... would you be able
+to write a whole program or script to solve a problem just in a whiteboard? Would that code compile with just a few errors? 
+Probably not. And there is the problem, we sacrifice deep knowledge for promptness. The consequence is quite obvious: how 
+can we find clever and optimal solutions to our problems without the deep knowledge of our tools?
+
+I am not saying we should not profit from these tools! But it is an excellent exercise (and some times you even code 
+faster in a simple text editor) to use Emacs or Vim or Nano to write our code. Remember:
+
+*The most you sweat in the training the less you bleed in the battle*
+
+Finally, the most important reason for me for using Emacs or the org-mode is fight against a terrible enemy: [**PROCRASTINATION**](https://en.wikipedia.org/wiki/Procrastination)
+
+Right now I am Writing this blog post in Emacs using Markdown syntax. It is a little bit late in the evening and it has been a quite exhausting day of coding. As you can imagine, I am not particularly motivated for Writing now. Now imagine I have to open my Firefox, log in into my account in Wordpress, start writing, stop, click on the button for inserting a link, start again writing, oh wait!, what's that? I have spelled wrong that word, let me click with the right button to get the suggestions, oh, that's wrong, am I using American English or British English?, What did I want to say? Damn! I've forgotten it...
+
+I guess you see my point. Now I am just simply writ-ting, thinking on the content, I will care later for the appearance or the spelling. Now I just want to tell you a good story, something that attracts your attention and keeps you reading. And I can do it fast in Emacs because I use Emacs for writing my notes, my articles, my reports, my presentations, my websites and most of the times my codes.
+
+At the same time, a simple text editor such as Emacs consumes almost no computer resources (RAM, CPU), 
+it can be run easily in any modern or old computer. It works in all the operating systems (Windows, Mac-OS, Linux). 
+It runs in remote servers and even it runs through the Terminal! And I don't need to click any button, I can use shortcuts and commands to do what I need. Plus: it is plain text which makes very easy doing back-ups, synchronizing in the cloud, version control, sharing...
+
+## Organizing your projects with Org-mode
+
+Let's cut to the chase. How can you organize your projects, tasks ans ToDo lists?
+
+First of all, I would create a *project.org* file in a folder in the cloud (Dropbox, OwnCloud, a Server at work) 
+somewhere you can access from different computers and locally. Then I would recommend to create a git (or svn) repository 
+on that folder and then clone or checkout that folder in another place in the same cloud or server. In this way, you can 
+modify your org-mode text file and commit using a version control system.
+
+Then, the main idea of org-mode is to create "expandable bullet lists" just typing `Alt + ENTER`. That will 
+create your first item. Then typing again `Alt + ENTER` you will get your second item of your *bullet list*.
+If you press now `Alt + right-arrow` you will indent your new item to a sub-item of the previous one. By pressing `Alt` 
+and the arrow keys you can move and indent your items to create the structure of your list.
+
+You can add a `TODO` flag by pressing `Shift + right-arrow` when your cursor is over 
+the corresponding text and, once it is done, you can switch the flag to `DONE` 
+pressing again `Shift + right-arrow`. You can also add a **priority** flag by 
+pressing `Shift + up-arrow` and you will see `[#A]` or  `[#B]` or  `[#C]` depending on the priority level you have assigned.
+
+Another interesting thing you can do to organize your tasks is to assign **Deadlines** by 
+pressing `Ctrl+c Ctrl+d` and selecting the date in the calendar you will see at the bottom of your Emacs buffer. 
+You can even change the date by placing your cursor over the date and pressing `Shift + up/down arrow`.
+
+This is very interesting because you can type then `Ctrl+c + [` and the file will be added to the agenda file list of Emacs.
+
+Then you only need to type `Alt + x` + `org-agenda` and you will get a menu where you can select the items to be presented. If you press `n` you will open another buffer where you will see all your deadlines and `TODO` items
+
+Let's create now a TODO list. Type `Alt + ENTER` in a new line of your EMACS org file and put some text to name your 
+list or your project. Then add `[/]` or `[%]` and then move your cursor to the / or % symbol and type 
+`Ctrl+c + Ctrl+c` to see the **progress** when checking the checkbox of every task that you can create by typing `-[ ]`.
+
+In summary, to create your TODO list, just type:
+
+```
+* My TODO list: [/]
+  -[ ] Task 1
+  -[ ] Task 2
+  -[ ] Task 3
+```
+
+Then press `Ctrl+c + Ctrl+c` inside of the checkboxes the task is done and press `Ctrl+c + Ctrl+c` over the [/] to see the progress. The result should be, for example,
+
+```
+* My TODO list: [2/3]
+  -[X] Task 1
+  -[X] Task 2
+  -[ ] Task 3
+```
+
+You could also add a deadline or a `TODO` flag using the previous methods to get something similar to:
+
+```
+* TODO My TODO list: [2/3]
+  DEADLINE: <2017-08-09 Wed>
+  -[X] Task 1
+  -[X] Task 2
+  -[ ] Task 3
+```
+
+The another feature you can use to organize your org-mode file is adding tags to any line or list element by pressing `Ctrl+c Ctrl+q`. Then you can search your tags typing `Ctrl+u + r`
+
+If you need to add more detailed information you can easily create and link a text file by typing `Ctrl+c Ctrl+l` and then `file:./my_file.txt` and `ENTER`. The buffer will ask then a ** Description** and that text will be inserted in the place where the cursor was while creating the link. Then when clicking on that text, you will open that file in another Emacs buffer and you can edit it.
+
+Once your full plan is done, you can export it to a LaTex, a PDF, a plain text, a HTML or an OpenDocument by typing `Ctrl+c + e`
+The link file can be already created or it can be a link to a ftp, a http or a bibtex file, just selecting the corresponding option in the dynamic menu.
+
+## Writting your documents with Emacs and Org-mode.
+
+Using org-mode is quite easy to write a quick draft of any presentation, paper or 
+report and then export it to LaTeX (including Beamer), OpenDocument format or even HTML.
+
+The interesting point is that you can write your articles or reports using the makup 
+syntax of the org-mode and insert equations, figures and tables 
+using the org-mode symbols without using any LaTeX command.
+
+It is quite practical specially for tables. It is really easy to format tables in ascii mode using `|` as separators and `|-` as horizontal separators
+
+```
+| Section 1 | Section 2 | Section 3 |
+|-----------+-----------+-----------|
+|   text    |   text    |   text    |
+|   text    |   text    |   text    |
+
+```
+
+It does not look very special like that... But pressing `TAB` you can align and auto-adjust the table and fill in fields.
+You can even move up or down complete rows by pressing `ALT + up/down-arrows`
+
+And once you export the document to LaTeX, you will have your table perfectly formatted, isn't it great?
+
+## More details
+
+You can find more information in the site of [org-mode](http://orgmode.org) or in sections [White Papers Relevant to Org-mode](http://orgmode.org/worg/org-papers.html), and of course, [the manual](http://orgmode.org/manual)
+
+You can also find some excellent videos in Youtube just searching "org mode emacs reproducible research". Here you have some of them:
+
+[Getting Started with Org Mode](https://www.youtube.com/watch?v=SzA2YODtgK4&t=399s)
+[Emacs + org-mode + python in reproducible research; SciPy 2013 Presentation ](https://www.youtube.com/watch?v=1-dUkyn_fZA)
+[Org-mode for Reproducible Research](https://www.youtube.com/watch?v=CGnt_PWoM5Y&t=2924s)
+
+
+
+Org-mode, One of the most useful features of Emacs, for Science, Knowledge and Writting.
+
+[Click here ](https://mohr-sm.github.io/about/ "About me")if you want some more information about me
+
+[Or click here ](https://mohr-sm.github.io/publications/ "Publications")if you want to check my last publications
+
+-----------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------
