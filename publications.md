@@ -8,27 +8,27 @@ Here you can find some of my last publications:
 
 ### Peer Reviewed Articles:
 
-* Louise C. Bruce, Marieke A. Frassl, George B. Arhonditsis, Gideon Gal, David P. Hamilton, Paul C. Hanson, Amy L. Hetherington, John M. Melack, Jordan S. Read, Karsten Rinke, Anna Rigosi, Dennis Trolle, Luke Winslow, Rita Adrian, Ana I. Ayala, Serghei A. Bocaniov, Bertram Boehrer, Casper Boon, Justin D. Brookes, Thomas Bueche, Brendan D. Busch, Diego Copetti, Alicia Cortés, Elvira de Eyto, J. Alex Elliott, Nicole Gallina, Yael Gilboa, Nicolas Guyennon, Lei Huang, Onur Kerimoglu, John D. Lenters, Sally MacIntyre, Vardit Makler-Pick, Chris G. McBride, Santiago Moreira, Deniz Özkundakci, Marco Pilotti, Francisco J. Rueda, James A. Rusak, Nihar R. Samal, Martin Schmid, Tom Shatwell, Craig Snorthheim, Frédéric Soulignac, Giulia Valerio, Leon van der Linden, Mark Vetter, Brigitte Vinçon-Leite, Junbo Wang, Michael Weber, Chaturangi Wickramaratne, R. Iestyn Woolway, Huaxia Yao, Matthew R. Hipsey (2018), A multi-lake comparative analysis of the General Lake Model (GLM): Stress-testing across a global observatory network,Environmental Modelling & Software, 102,274-291.
+* Louise C. Bruce, Marieke A. Frassl, George B. Arhonditsis, Gideon Gal, David P. Hamilton, Paul C. Hanson, Amy L. Hetherington, John M. Melack, Jordan S. Read, Karsten Rinke, Anna Rigosi, Dennis Trolle, Luke Winslow, Rita Adrian, Ana I. Ayala, Serghei A. Bocaniov, Bertram Boehrer, Casper Boon, Justin D. Brookes, Thomas Bueche, Brendan D. Busch, Diego Copetti, Alicia Cortés, Elvira de Eyto, J. Alex Elliott, Nicole Gallina, Yael Gilboa, Nicolas Guyennon, Lei Huang, Onur Kerimoglu, John D. Lenters, Sally MacIntyre, Vardit Makler-Pick, Chris G. McBride, **Santiago Moreira**, Deniz Özkundakci, Marco Pilotti, Francisco J. Rueda, James A. Rusak, Nihar R. Samal, Martin Schmid, Tom Shatwell, Craig Snorthheim, Frédéric Soulignac, Giulia Valerio, Leon van der Linden, Mark Vetter, Brigitte Vinçon-Leite, Junbo Wang, Michael Weber, Chaturangi Wickramaratne, R. Iestyn Woolway, Huaxia Yao, Matthew R. Hipsey (2018), A multi-lake comparative analysis of the General Lake Model (GLM): Stress-testing across a global observatory network,Environmental Modelling & Software, 102,274-291.
 
-* Vázquez Riveiros, N., A. Govin, C. Waelbroeck, A. Mackensen, E. Michel, S. Moreira, T. Bouinot, N. Caillon, A. Orgun, and M. Brandon (2016), Mg/Ca thermometry in planktic foraminifera: Improving paleotemperature estimations for G. bulloides and N. pachyderma left, Geochem. Geophys. Geosyst., 17, 1249–1264, doi:10.1002/2015GC006234.
+* Vázquez Riveiros, N., A. Govin, C. Waelbroeck, A. Mackensen, E. Michel, **S. Moreira**, T. Bouinot, N. Caillon, A. Orgun, and M. Brandon (2016), Mg/Ca thermometry in planktic foraminifera: Improving paleotemperature estimations for G. bulloides and N. pachyderma left, Geochem. Geophys. Geosyst., 17, 1249–1264, doi:10.1002/2015GC006234.
 
-* Moreira, S., Schultze, M., Rahn, K., and Boehrer, B.: A practical approach to lake water 
+* **Moreira, S.**, Schultze, M., Rahn, K., and Boehrer, B.: A practical approach to lake water 
 density from electrical conductivity and temperature, Hydrol. Earth Syst. Sci., 20, 2975-2986, doi:10.5194/hess-20-2975-2016, 2016.
 
-* Sachse R., Petzoldt T., Blumstock M., Moreira S., Pätzig M., Rücker J., Janse J., Mooij W., Hilt S. (2014). 
+* Sachse R., Petzoldt T., Blumstock M., **Moreira S.**, Pätzig M., Rücker J., Janse J., Mooij W., Hilt S. (2014). 
 Extending one-dimensional models for deep lakes to simulate the impact of submerged macrophytes on water quality.
 Environmental Modelling and Software, 61:410-423.
 
-* Moreira S., Boehrer B., Schultze M., Dietz S., Samper J. (2011). Modeling geochemically caused permanent 
+* **Moreira S.**, Boehrer B., Schultze M., Dietz S., Samper J. (2011). Modeling geochemically caused permanent 
 stratification in lake Waldsee (Germany). Aquatic Geochemistry, 17(3) :265-280.
 
-* Lagauzere, S., Moreira, S., and Koschorreck, M. (2011). Influence of bioturbation on the biogeochemistry of 
+* Lagauzere, S., **Moreira, S.**, and Koschorreck, M. (2011). Influence of bioturbation on the biogeochemistry of 
 littoral sediments of an acidic post-mining pit lake, Biogeosciences, 8: 339-352.
 
-* Moreira S. and Boehrer B. (2011). Web Access to Nume-
+* **Moreira S.** and Boehrer B. (2011). Web Access to Nume-
 rical Tools of Limnology. SIL News (58), 10. www.ufz.de/index.php?en=20153
 
-* Samper, J, C Yang, L. Zheng, L. Montenegro, S. Moreira, C Lu, (2011). Chapter 7: CORE2D V4: A code for
+* Samper, J, C Yang, L. Zheng, L. Montenegro, **S. Moreira**, C Lu, (2011). Chapter 7: CORE2D V4: A code for
 water flow, heat and solute transport, geochemical reactions, and microbial processes, In: Ground Water 
 Reactive Transport Models, Electronic book, 144-167, ISBN 978-1-60805-029-1
 
