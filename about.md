@@ -17,7 +17,13 @@ I can express quite well in French and I can survive in German.
 
 ### Experience:
 
-APRIL 2015  –  NOW
+FEBRUARY 2018 - NOW
+Team leader / R&D project manager  (Computational Mathematics)
+IDENER (Seville)
+www.idener.es
+
+
+APRIL 2015  –  JANUARY 2018
 
 Research Engineer in Numerical Modelling
 Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
