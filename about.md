@@ -18,8 +18,10 @@ I can express quite well in French and I can survive in German.
 ### Experience:
 
 FEBRUARY 2018 - NOW
+
 Team leader / R&D project manager  (Computational Mathematics)
 IDENER (Seville)
+
 www.idener.es
 
 
