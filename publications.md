@@ -8,6 +8,8 @@ Here you can find some of my last publications:
 
 ### Peer Reviewed Articles:
 
+* Louise C. Bruce, Marieke A. Frassl, George B. Arhonditsis, Gideon Gal, David P. Hamilton, Paul C. Hanson, Amy L. Hetherington, John M. Melack, Jordan S. Read, Karsten Rinke, Anna Rigosi, Dennis Trolle, Luke Winslow, Rita Adrian, Ana I. Ayala, Serghei A. Bocaniov, Bertram Boehrer, Casper Boon, Justin D. Brookes, Thomas Bueche, Brendan D. Busch, Diego Copetti, Alicia Cortés, Elvira de Eyto, J. Alex Elliott, Nicole Gallina, Yael Gilboa, Nicolas Guyennon, Lei Huang, Onur Kerimoglu, John D. Lenters, Sally MacIntyre, Vardit Makler-Pick, Chris G. McBride, Santiago Moreira, Deniz Özkundakci, Marco Pilotti, Francisco J. Rueda, James A. Rusak, Nihar R. Samal, Martin Schmid, Tom Shatwell, Craig Snorthheim, Frédéric Soulignac, Giulia Valerio, Leon van der Linden, Mark Vetter, Brigitte Vinçon-Leite, Junbo Wang, Michael Weber, Chaturangi Wickramaratne, R. Iestyn Woolway, Huaxia Yao, Matthew R. Hipsey (2018), A multi-lake comparative analysis of the General Lake Model (GLM): Stress-testing across a global observatory network,Environmental Modelling & Software, 102,274-291.
+
 * Vázquez Riveiros, N., A. Govin, C. Waelbroeck, A. Mackensen, E. Michel, S. Moreira, T. Bouinot, N. Caillon, A. Orgun, and M. Brandon (2016), Mg/Ca thermometry in planktic foraminifera: Improving paleotemperature estimations for G. bulloides and N. pachyderma left, Geochem. Geophys. Geosyst., 17, 1249–1264, doi:10.1002/2015GC006234.
 
 * Moreira, S., Schultze, M., Rahn, K., and Boehrer, B.: A practical approach to lake water 
