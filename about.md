@@ -112,6 +112,12 @@ Course 2004/2005. Teaching Assistant.
 
 ### Education:
 
+2019 - 2020
+
+Python: Machine Learning, Optimization and Applications (III Edition), Higher Technical School of Engineering, (University of Sevile, Spain)
+
+
+
 2005 – 2010
 
 PhD in Civil Engineering, Civil Engineering School (University of A Coruña, Spain)
